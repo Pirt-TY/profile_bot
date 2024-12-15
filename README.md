@@ -6,3 +6,18 @@
 موقع ويب جاهز.
 عرض معلومات بروفايل المستخدم.
 شراء وتطبيق خلفيات بروفايل مخصصة.
+اوامر متعددة :
+- /addcredit
+- /balance
+- /daily
+- /ping
+- /profile (اهم لذي بني عليه مشروع)
+- /transfer
+# صور تجارب
+![صور لي تجارب ](md/Screenshot_1.png)
+![صور لي تجارب ](md/Screenshot_2.png)
+![صور لي تجارب ](md/Screenshot_3.png)
+![صور لي تجارب ](md/Screenshot_4.png)
+
+
+
