@@ -16,9 +16,9 @@
   
 
 # صور تجارب
-<img src="md/Screenshot_4.png" alt="Profile Image" width="200" height="200">
-<img src="md/Screenshot_1.png" alt="Profile Image" width="200" height="200">
-<img src="md/Screenshot_2.png" alt="Profile Image" width="200" height="200">
-<img src="md/Screenshot_1.png" alt="Profile Image" width="200" height="200">
+![صور لي تجارب ](md/Screenshot_4.png)
+![صور لي تجارب ](md/Screenshot_1.png)
+![صور لي تجارب ](md/Screenshot_3.png)
+![صور لي تجارب ](md/Screenshot_2.png)
 
 
