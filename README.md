@@ -13,13 +13,12 @@
 - /ping
 - /profile (اهم لذي بني عليه مشروع)
 - /transfer
-- <img src="https://raw.githubusercontent.com/Pirt-TY/profile_bot/main/images/profile_image.png" alt="Profile Image" width="200" height="200">
+  
 
 # صور تجارب
-![صور لي تجارب ](md/Screenshot_1.png)
-![صور لي تجارب ](md/Screenshot_2.png)
-![صور لي تجارب ](md/Screenshot_3.png)
-![صور لي تجارب ](md/Screenshot_4.png)
-
+<img src="md/Screenshot_4.png" alt="Profile Image" width="200" height="200">
+<img src="md/Screenshot_1.png" alt="Profile Image" width="200" height="200">
+<img src="md/Screenshot_2.png" alt="Profile Image" width="200" height="200">
+<img src="md/Screenshot_1.png" alt="Profile Image" width="200" height="200">
 
 
